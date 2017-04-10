@@ -1,4 +1,4 @@
-#Hands on HAML
+# Hands on HAML
 
 HAML stands for HTML Abstraction Markup Language. It helps in writing less code and generate well formatted HTML code.
 
