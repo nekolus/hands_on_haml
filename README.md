@@ -10,10 +10,10 @@ But let's focus on learning HAML through command line and see few examples on ho
 * HTML Syntax
 * Comments
 * Paragraph
+* Attributes
 * lists
 * Image
 * Div
-* Tag Attributes
 * Class and ID Attributes
 * Include CSS, Javascript external files
 * Links
